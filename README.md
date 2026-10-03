@@ -2,3 +2,7 @@ Hi, I'm Nivedita Hallad, a Computer Science and Engineering student at Reva Univ
 Learning C, C++, Python, and Java
 Interested in software development and research
 Goal: build strong technical skills and contribute to meaningful projects
+
+## Projects
+
+I am working on building software and engineering projects to improve my programming and problem-solving skills.
